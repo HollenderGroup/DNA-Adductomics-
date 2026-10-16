@@ -1,12 +1,12 @@
 """
 DIA Data Cleaning and Feature-Filtering Pipeline
 ==================================================
-Supplementary code for: [paper title], Section 2.4.6/2.4.7.
+Supplementary code for: Toward Effect-Based Monitoring of Wastewater Exposure: DNA Adductomics in Gammarus populations Using Complementary Mass Spectrometric Approaches, Section 2.3.2
 
 Applies the SAME six-step filtering pipeline, in the same order, to both:
   - the untargeted 192-window diagnostic-ion screen ("Win_*" features)
   - library-matched target compounds matched against the reference
-    spectral library (Section 2.4.7)
+    spectral library 
 
 Pre-processing (not one of the six steps): calibration-standard replicates
 and the automatically generated precursor-mass transition (product m/z equal
